@@ -1,3 +1,9 @@
+This Project has become Oratr
+
+You can find it at [spknetwork/oratr](https://github.com/spknetwork/oratr/)
+
+This Fork is no longer maintained.
+
 # SPK Desktop
 
 A native desktop application for the SPK Network providing video transcoding, IPFS file management, and ProofOfAccess storage node capabilities.
